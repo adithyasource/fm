@@ -3,7 +3,7 @@
 <table>
     <tbody>
         <tr>
-            <td><a href="https://github.com/adithyasource/fm"> download</a></td>
+            <td><a href="https://github.com/adithyasource/fm/releases"> download</a></td>
             <td>better fog resource pack for minecraft</td>
         </tr>
     </tbody>
