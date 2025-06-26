@@ -1,18 +1,29 @@
-# fm (fog machine)
+# fm
 
 <table>
     <tbody>
         <tr>
             <td><a href="https://github.com/adithyasource/fm/releases"> download</a></td>
             <td>better fog resource pack for minecraft</td>
+            <td><i>(fm stands for fog machine btw!)</i></td>
         </tr>
     </tbody>
 </table>
 
-![2025-06-21_01 40 50](https://github.com/user-attachments/assets/de962217-2011-47bb-9633-1ba11ce4ebd5)
-![2025-06-21_01 42 52](https://github.com/user-attachments/assets/1e8d64a6-5a72-42d4-acb5-9af5e799ab68)
-![2025-06-21_01 45 05](https://github.com/user-attachments/assets/4e1a70f1-f850-4083-8a58-9150a1c6fa87)
-![2025-06-21_01 47 04](https://github.com/user-attachments/assets/b4f6111d-40bd-4a82-8466-1debdcf1abb3)
+> note - different render distances have different effects on the fog, so you'll have to dial in the look using that
+
+<table>
+    <tbody>
+        <tr>
+            <td><img src="https://i.ibb.co/hF8HY39L/2025-06-25-22-39-16.png"></td>
+            <td><img src="https://i.ibb.co/LDTNQCyr/2025-06-25-05-44-30.png"></td>
+        </tr>
+        <tr>
+            <td><img src="https://i.ibb.co/6095GbcX/2025-06-27-00-54-52.png"></td>
+            <td><img src="https://i.ibb.co/KcTq75kZ/2025-06-27-00-57-16.png"></td>
+        </tr>
+    </tbody>
+</table>
 
 ## feedback
 
