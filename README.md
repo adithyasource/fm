@@ -3,9 +3,8 @@
 <table>
     <tbody>
         <tr>
-            <td><a href="https://github.com/adithyasource/fm/releases"> download</a></td>
+            <td><a href="https://modrinth.com/resourcepack/fm-fog-machine"> download on modrinth</a></td>
             <td>better fog resource pack for minecraft</td>
-            <td><i>(fm stands for fog machine btw!)</i></td>
         </tr>
     </tbody>
 </table>
@@ -27,4 +26,4 @@
 
 ## feedback
 
-if there are any features or bug fixes you'd like to suggest, please open a new issue!
+if there are any features or bug fixes you'd like to suggest for fm (fog machine), please open a new issue!
